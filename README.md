@@ -32,3 +32,28 @@ Las instituciones educativas necesitan decidir cómo adoptar IA generativa (Chat
 
 ## 6) Evidencias (outputs)
 Los gráficos del análisis se encuentran en la carpeta `outputs/` (PNG/PDF).
+outputs/annual_production.png
+outputs/sentiment_over_time.png
+
+### Red de coocurrencia
+
+![Coocurrencia](outputs/cooccurrence_network.png)
+
+Interpretación:
+Las palabras clave muestran relaciones temáticas relevantes.
+
+### Mapa temático
+
+![Mapa temático](outputs/thematic_map.png)
+
+Interpretación:
+Se identifican líneas emergentes y consolidadas.
+
+### Fuentes relevantes
+
+![Fuentes](outputs/most_relevant_sources.png)
+
+Interpretación:
+Se destacan revistas y fuentes líderes.
+
+Corregir rutas de imágenes y ampliar visualizaciones README
