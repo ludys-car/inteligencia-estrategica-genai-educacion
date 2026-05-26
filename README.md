@@ -32,3 +32,17 @@ Las instituciones educativas necesitan decidir cómo adoptar IA generativa (Chat
 
 ## 6) Evidencias (outputs)
 Los gráficos del análisis se encuentran en la carpeta `outputs/` (PNG/PDF).
+## 7) ## 6. Resultados y visualizaciones
+![Texto](ruta_imagen)
+### Producción científica anual
+
+![Producción anual](outputs/produccion_anual.png)
+
+Interpretación:
+Se observa crecimiento sostenido de publicaciones sobre IA generativa en educación entre 2020 y 2026.
+### Sentimiento NLP
+
+![Sentimiento](outputs/sentimiento.png)
+
+Interpretación:
+Predomina sentimiento positivo.
