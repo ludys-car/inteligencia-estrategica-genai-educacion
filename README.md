@@ -32,3 +32,19 @@ Las instituciones educativas necesitan decidir cómo adoptar IA generativa (Chat
 
 ## 6) Evidencias (outputs)
 Los gráficos del análisis se encuentran en la carpeta `outputs/` (PNG/PDF).
+
+## 6. Resultados y visualizaciones
+
+### Producción científica anual
+
+![Producción anual](outputs/produccion_anual.png)
+
+Interpretación:
+Se evidencia crecimiento sostenido del tema.
+
+### Sentimiento NLP
+
+![Sentimiento](outputs/sentimiento.png)
+
+Interpretación:
+Predomina sentimiento positivo.
